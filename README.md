@@ -1,7 +1,7 @@
 # AI ChatBot project 🧠
 
 ## Live Site
-abc123
+https://liammelkersson.github.io/ai-chat-bot/
 
 ## Project Information
 This is a ChatGPT clone, that uses an API to generate AI answers. Mostly for fun, but also to practice using API's.
